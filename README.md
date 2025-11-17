@@ -7,10 +7,15 @@ It showcases **secure, scalable, globally distributed static hosting** — essen
 
 ## 🚀 Project Overview
 
+
  Website hosted on **Amazon S3 (Static Website Hosting)**
+ 
  Distributed globally using **Amazon CloudFront CDN**
+
  HTTPS enforced for secure access
+ 
  S3 bucket configured with correct **bucket policies**
+
  Clean folder structure with 2023 personal portfolio website
 
 
