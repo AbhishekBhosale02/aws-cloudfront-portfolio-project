@@ -86,6 +86,16 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 
 ![edited static web hosting](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/edited%20static%20web%20hosting.png)
 
+-  Hosting Live Website
+  ![web hosting live amz 1](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/web%20hosting%20live%20amz%201.png)
+
+![web hosting live amz 2](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/web%20hosting%20live%20amz%202.png)
+
+![web hosting live amz 3](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/web%20hosting%20live%20amz%203.png)
+
+![web hosting live amz 4](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/web%20hosting%20live%20amz%204.png)
+
+
 - CloudFront Distribution Screenshot
 - IAM User Screenshot
 - Website live screenshot
