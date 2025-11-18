@@ -84,7 +84,6 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 **Abhishek Bhosale**  
 Cloud & DevOps Learner  
 
-![IAM user created](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/iam user created.png)
 
 
 
