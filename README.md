@@ -29,9 +29,10 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 
 ---
 
-## 🏗️ Architecture Diagram: 
+## 🏗️ Architecture Diagram
 
-![AWS Architecture]([https://raw.githubusercontent.com/your-username/your-repo/main/architecture.png](https://github.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/blob/main/screenshots/architecture.png?raw=true))
+![AWS Architecture](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/architecture.png)
+
 
 
 ---
