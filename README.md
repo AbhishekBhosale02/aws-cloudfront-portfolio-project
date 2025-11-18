@@ -78,14 +78,13 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 
 
 
-
 ![edited bucket policy](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/edited%20bucket%20policy.png)
 
 ![make images public using acl](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/make%20images%20public%20using%20acl.png)
 ![edited public access](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/edited%20public%20acess.png)
 
 ![edited static web hosting](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/edited%20static%20web%20hosting.png)
-
+---
 -  Hosting Live Website
   ![web hosting live amz 1](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/web%20hosting%20live%20amz%201.png)
 
@@ -95,20 +94,18 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 
 ![web hosting live amz 4](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/web%20hosting%20live%20amz%204.png)
 
-
+---
 - CloudFront Distribution Screenshot
   ![Created new cloud front distribution](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/Created%20new%20cloud%20front%20distrubution.png)
 - web hosting live with cloudfront
 ![web hosting live with cloudfront 1](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/web%20hosting%20live%20with%20cloudfront%201.png)
 
 ![web hosting live with cloudfront 2](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/web%20hosting%20live%20with%20cloudfront%202.png)
-
+---
 - IAM User Screenshot
   ![iam user created](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/iam%20user%20created.png)
 
 ![Creating iam access key](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/Creating%20iam%20acess%20key.png)
-
-- Website live screenshot
 
 ---
 
