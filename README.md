@@ -33,8 +33,6 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 
 ![AWS Architecture](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/architecture.png)
 
-![s3 with web files](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/s3%20with%20web%20files.png)
-
 
 ---
 
@@ -75,6 +73,8 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 
 ## 📸 Screenshots 
 - S3 Static Hosting Screenshot
+  ![s3 with web files](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/s3%20with%20web%20files.png)
+
 - CloudFront Distribution Screenshot
 - IAM User Screenshot
 - Website live screenshot
