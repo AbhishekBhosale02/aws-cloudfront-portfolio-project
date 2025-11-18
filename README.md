@@ -82,6 +82,7 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 ![edited bucket policy](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/edited%20bucket%20policy.png)
 
 ![make images public using acl](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/make%20images%20public%20using%20acl.png)
+![edited public access](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/edited%20public%20acess.png)
 
 
 
