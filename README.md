@@ -31,7 +31,8 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 
 ## 🏗️ Architecture Diagram: 
 
-![Architecture](architecture.png)
+![AWS Architecture](https://raw.githubusercontent.com/your-username/your-repo/main/A_2D_digital_diagram_illustrates_the_architecture_.png)
+
 
 (Replace with your PNG file — name it `architecture.png`)
 
