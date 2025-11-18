@@ -109,7 +109,8 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 
 ---
 - AWS CLI on CMD
-  
+  [AWS CLI on PC CMD](https://github.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/blob/main/screenshots/aws%20CLI%20on%20PC%20CMD.png)
+
   
 
 ---
