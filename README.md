@@ -1,21 +1,85 @@
-# 🌐 AWS CloudFront Portfolio Project  
-### Static Website Hosting using **Amazon S3 + CloudFront (CDN)
+# 🌐 Personal Portfolio Hosting on AWS (S3 + CloudFront)
 
-This project demonstrates how I deployed my personal portfolio website using **AWS S3**, **CloudFront**, and **IAM**.  
-It showcases **secure, scalable, globally distributed static hosting** — essential skills for AWS Cloud Engineer & Solutions Architect roles.
+This project demonstrates how to deploy a **static portfolio website** using **Amazon S3**, deliver it globally using **Amazon CloudFront**, and secure deployments using **IAM** & **AWS CLI**.
 
 
-## 🚀 Project Overview
+## 🚀 Live Website
+🔗 **https://duwy3jm9cuhi.cloudfront.net**
 
 
- Website hosted on **Amazon S3 (Static Website Hosting)**
- 
- Distributed globally using **Amazon CloudFront CDN**
+## 🧰 AWS Services Used
 
- HTTPS enforced for secure access
- 
- S3 bucket configured with correct **bucket policies**
+### **1. Amazon S3**
+- Stores the static website files (HTML, CSS, JS, Images)
+- Static website hosting enabled
 
- Clean folder structure with 2023 personal portfolio website
+### **2. Amazon CloudFront**
+- Global CDN to speed up website delivery
+- HTTPS enabled
+- Origin: S3 Bucket
+- Improved caching & global availability
+
+### **3. AWS IAM**
+- IAM User created for secure deployments
+- Access Key & Secret Key generated for CLI usage
+
+### **4. AWS CLI**
+- Used for uploading and syncing website files
+- Used for CloudFront cache invalidation
+
+---
+
+## 🏗️ Architecture Diagram: 
+
+![Architecture](architecture.png)
+
+(Replace with your PNG file — name it `architecture.png`)
+
+---
+
+## 📂 Folder Structure: 
+
+/website
+  ├── index.html
+  ├── about.html
+  ├── contact.html
+  ├── assets/
+  ├── images/
+  └── css/
 
 
+## 📝 Steps Followed: 
+
+### **1. Create S3 Bucket**
+ Unique bucket name
+ Public access disabled
+ Static website hosting enabled
+ Files uploaded
+
+### **2. Create CloudFront Distribution**
+ Origin: S3 bucket
+ SSL (HTTPS) enabled
+ Default root: index.html
+ Wait for distribution to deploy
+ Test CloudFront link
+
+### **3. Create IAM User**
+ Programmatic access enabled
+ Permissions: Custom group + policies
+ Access key downloaded (CSV)
+ Configured using `aws configure`
+
+### **4. Learn how to Upload Website Using AWS CLI**
+
+
+## 📸 Screenshots 
+- S3 Static Hosting Screenshot
+- CloudFront Distribution Screenshot
+- IAM User Screenshot
+- Website live screenshot
+
+---
+
+## 🧑‍💻 Author
+**Abhishek Bhosale**  
+Cloud & DevOps Learner  
