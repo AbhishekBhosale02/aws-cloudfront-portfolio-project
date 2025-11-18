@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Hosting on AWS (S3 + CloudFront)
+# 🌐 Personal Portfolio Hosting on AWS (S3 + CloudFront + IAM Policies)
 
 This project demonstrates how to deploy a **static portfolio website** using **Amazon S3**, deliver it globally using **Amazon CloudFront**, and secure deployments using **IAM** & **AWS CLI**.
 
