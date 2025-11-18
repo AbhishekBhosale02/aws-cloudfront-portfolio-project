@@ -74,6 +74,16 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 ## 📸 Screenshots 
 - S3 Static Hosting Screenshot
   ![s3 with web files](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/s3%20with%20web%20files.png)
+  ![s3 static web hosting](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/s3%20static%20web%20hosting.png)
+
+
+![edited static web hosting](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/edited%20static%20web%20hosting.png)
+
+![edited bucket policy](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/edited%20bucket%20policy.png)
+
+![make images public using acl](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/make%20images%20public%20using%20acl.png)
+
+
 
 - CloudFront Distribution Screenshot
 - IAM User Screenshot
