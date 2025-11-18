@@ -97,6 +97,12 @@ This project demonstrates how to deploy a **static portfolio website** using **A
 
 
 - CloudFront Distribution Screenshot
+  ![Created new cloud front distribution](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/Created%20new%20cloud%20front%20distrubution.png)
+- web hosting live with cloudfront
+![web hosting live with cloudfront 1](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/web%20hosting%20live%20with%20cloudfront%201.png)
+
+![web hosting live with cloudfront 2](https://raw.githubusercontent.com/AbhishekBhosale02/aws-cloudfront-portfolio-project/main/screenshots/web%20hosting%20live%20with%20cloudfront%202.png)
+
 - IAM User Screenshot
 - Website live screenshot
 
